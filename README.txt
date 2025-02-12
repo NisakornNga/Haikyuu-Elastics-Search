@@ -7,7 +7,7 @@ The Haikyuu Character Search System, driven by dynamic Elasticsearch and the eff
 - **User-Friendly Interface:** Intuitive design that allows easy navigation and exploration of character details.  
 - **Comprehensive Information:** Provides detailed descriptions to help users recall character information.  
 
-## Project Structure
+## Project Structure  
 - templates/ # HTML templates for rendering web pages
 - Project2_6488052_6488061_6488226.pdf # Project report
 - README.txt # Initial README file
